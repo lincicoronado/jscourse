@@ -7,4 +7,5 @@ function add(num1, num2) {
     return result;
 }
 
+
 currentResult = add(1, 2);
